@@ -1,49 +1,67 @@
-
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+```markdown
+这里是 **Youzix**（Youzix_Star），一名热爱科技与自由的初三学生。  
+这个网站使用 **Astro** 框架搭配 **[Mizuki](https://github.com/matsuzaka-yuki/mizuki)** 主题构建。
 
 ::github{repo="matsuzaka-yuki/Mizuki"}
 
-## 🌟 Theme Features
+## 🌟 关于我
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+### 🎮 爱好与兴趣
+- **科技探索者** - 对新鲜科技充满好奇，喜欢折腾开源项目与自建服务
+- **游戏玩家** - 尤其是《Minecraft》，喜欢在创造与探索中找到灵感
+- **内容创作者** - 在B站经营着科技类账号，分享学习心得与趣味科技
+- **自由记录者** - 随心记录生活、想法与技术点滴
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+### 📚 学习与成长
+- **博客搭建者** - 利用AI辅助 + 开源项目 + Cloudflare部署个人博客
+- **持续学习者** - 正在逐步探索前端开发、部署与自动化工具
+- **实践主义者** - 乐于动手尝试，从搭建到发布全程参与体验
 
+### 📺 内容创作
+- **B站账号** - 分享科技相关内容，目前已积累 **500+** 粉丝  
+  👉 [访问我的B站空间](https://space.bilibili.com/1015832090)
+- **博客写作** - 努力更新个人博客，记录学习与生活思考
+- **空间日志** - 在QQ空间随手发布日常瞬间与想法
 
+### 🛠️ 技术栈与工具
+```bash
+# 我正在学习和使用的工具
+- 博客框架: Astro + Mizuki主题
+- 部署平台: Cloudflare Pages
+- 辅助工具: AI编程助手
+- 版本控制: Git + GitHub
+- 内容平台: B站 + 个人博客 + QQ空间
+```
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+🎯 近期目标
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
+[!TIP]
+短期计划
 
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+1. 持续更新个人博客内容
+2. 学习基础的前端开发知识
+3. 探索更多开源项目的使用方式
+4. 继续经营B站账号，分享有价值的内容
+
+[!NOTE]
+长期愿景
+希望在技术的世界里自由探索，用代码记录成长，
+成为一个既能创造又能分享的科技爱好者。
+
+🌐 联系我
+
+· 邮箱 - wxd1y12r@gmail.com / 2283851332@qq.com
+· 微信 - wxd1y12r
+· QQ - 2283851332
+· B站 - Youzix_Star
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+我是 Youzix，一个用技术记录生活的中学生。
+自由地学习，自由地创作，自由地成长。
+
+\text{成长} = \int_{今天}^{明天} \text{(学习 + 实践 + 分享)}\,dt
+
+本博客基于 Mizuki 主题 构建，致谢所有开源项目的贡献者。
+
+```
